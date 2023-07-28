@@ -1,0 +1,27 @@
+{
+  "template": "https://github.com/linkml/linkml-project-cookiecutter",
+  "commit": "ef7ff16925321a2abdbaa5a2ba5db8aa83ebf24f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "dcat-linkml",
+      "__project_slug": "dcat_linkml",
+      "github_org": "nicholsn",
+      "__source_path": "src/dcat_linkml/schema/dcat_linkml.yaml",
+      "project_description": "An implementation of dcat using linkml.",
+      "full_name": "Nolan Nichols",
+      "email": "nolan.nichols@gmail.com",
+      "__author": "Nolan Nichols <nolan.nichols@gmail.com>",
+      "license": "Apache Software License 2.0",
+      "main_schema_class": "Dataset",
+      "create_python_classes": "Yes",
+      "use_schemasheets": "Yes",
+      "google_sheet_id": "1S0Ia8nd9K80FqSAlXidu2pbbs07jpyP_-6-1inuOckc",
+      "google_sheet_tabs": "dataset",
+      "__google_sheet_module": "dataset",
+      "github_token_for_pypi_deployment": "PYPI_PASSWORD",
+      "_template": "https://github.com/linkml/linkml-project-cookiecutter"
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,23 @@
+---
+id: https://w3id.org/nicholsn/dcat-linkml
+name: dcat-linkml
+title: dcat-linkml
+description: |-
+  An implementation of dcat using linkml.
+license: Apache Software License 2.0
+see_also:
+  - https://nicholsn.github.io/dcat-linkml
+
+prefixes:
+  dcat_linkml: https://w3id.org/nicholsn/dcat-linkml/
+  linkml: https://w3id.org/linkml/
+  biolink: https://w3id.org/biolink/
+  schema: http://schema.org/
+  PATO: http://purl.obolibrary.org/obo/PATO_
+  example: https://example.org/
+default_prefix: dcat_linkml
+default_range: string
+
+imports:
+  - linkml:types
+  - dataset

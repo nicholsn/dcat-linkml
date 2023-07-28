@@ -1,0 +1,7 @@
+---
+name: dcat_linkml
+author: Nolan Nichols <nolan.nichols@gmail.com>
+description: An implementation of dcat using linkml.
+source_schema_path: src/dcat_linkml/schema/dcat_linkml.yaml
+google_sheet_id: 1S0Ia8nd9K80FqSAlXidu2pbbs07jpyP_-6-1inuOckc
+google_sheet_tabs: dataset
